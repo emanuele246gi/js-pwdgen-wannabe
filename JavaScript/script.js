@@ -8,4 +8,6 @@ console.log(cognomeutente)
 var coloreutente = prompt ('Colore preferito');
 console.log(coloreutente)
 
-alert('nomecognomecolorepreferito21')
+var password = nomeutente + cognomeutente + coloreutente
+
+document.writeln(password + '21')
