@@ -10,4 +10,4 @@ console.log(coloreutente);
 
 var password = nomeutente + cognomeutente + coloreutente;
 
-document.writeln(password + '21');
+document.getElementById(password + '21');
